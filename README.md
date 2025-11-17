@@ -96,12 +96,4 @@ def take_photo(filename='photo.jpg', quality=0.8):
 ---
 
 ## 👤 Author & Credits
-**Project by:** [@tubakhxn](https://github.com/tubakhxn)  
-
-💡 Feel free to **fork** this repo, modify, and experiment — but please **don’t just copy and re-upload** it as your own.  
-Show support by giving the repo a ⭐ if it helped you!  
-
----
-
-## 📄 License
-MIT License — you’re free to use, modify, and share responsibly with proper credit.
+**Project by:** Anjali Gupta
